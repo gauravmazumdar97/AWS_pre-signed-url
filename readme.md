@@ -1,16 +1,14 @@
-# Pre-Signed URL Generator
+# AWS-Pre-Signed 
 
-Generate pre-signed URLs for uploading files to Amazon S3 with ease!
+Generate secure pre-signed URLs for uploading files to Amazon S3 with ease!
 
-
-## Features
+## 🚀 Features
 
 - Generate secure pre-signed URLs for uploading files to Amazon S3.
 - Specify folder names and file names for organized storage.
 - Simple and easy-to-use API endpoint.
 
-
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Node.js
 - Express.js
@@ -18,7 +16,7 @@ Generate pre-signed URLs for uploading files to Amazon S3 with ease!
 - AWS SDK for JavaScript
 - Other dependencies (mention if any)
 
-## Getting Started
+## 📝 Getting Started
 
 ### Prerequisites
 
@@ -27,7 +25,7 @@ Generate pre-signed URLs for uploading files to Amazon S3 with ease!
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/gauravmazumdar97/AWS_pre-signed-url.git
